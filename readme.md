@@ -1,14 +1,15 @@
 # Task for html
 
 ## Install node.js
+download and install node.js in your pc.
+https://nodejs.org/en/
 
 ## install npm install
-
+install npm modules.
 ```npm install```
 
 ## run task runner
 ```gulp```
 
 ## custom
-change some setting if you need.
-gulpfile
+You want to change some settings if you need,rewrite gulpfile.js.
